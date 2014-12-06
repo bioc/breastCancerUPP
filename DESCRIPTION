@@ -1,10 +1,10 @@
 Package: breastCancerUPP
 Type: Package
 Title: Gene expression dataset published by Miller et al. [2005] (UPP).
-Version: 1.5.0
+Version: 1.5.1
 Date: 2011-02-10
 Description: Gene expression data from a breast cancer study published by Miller et al. in 2005, provided as an eSet.
-biocViews: ExperimentData, Cancer, GeneExpression, Microarray
+biocViews: ExperimentData, CancerData, BreastCancerData, MicroarrayData, GEO
 Author: Markus Schroeder, Benjamin Haibe-Kains, Aedin Culhane, Christos Sotiriou, Gianluca Bontempi, John Quackenbush
 Maintainer: Markus Schroeder <mschroed@jimmy.harvard.edu>, Benjamin Haibe-Kains <bhaibeka@jimmy.harvard.edu>
 Depends: R (>= 2.5.0)
@@ -12,4 +12,3 @@ Suggests: survcomp, genefu, Biobase
 LazyLoad: yes
 License: Artistic-2.0
 URL: http://compbio.dfci.harvard.edu/
-
