@@ -1,7 +1,7 @@
 Package: breastCancerUPP
 Type: Package
 Title: Gene expression dataset published by Miller et al. [2005] (UPP).
-Version: 1.31.0
+Version: 1.32.0
 Date: 2011-02-10
 Description: Gene expression data from a breast cancer study published by Miller et al. in 2005, provided as an eSet.
 biocViews: ExperimentData, CancerData, BreastCancerData, MicroarrayData, GEO
